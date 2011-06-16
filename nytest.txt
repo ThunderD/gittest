@@ -1,1 +1,2 @@
-det virker//t35t3
+det virker//
+>>>>>>> e2ef8705d5e733aaf9aef53fec64692b35b1c080
